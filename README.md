@@ -11,7 +11,10 @@
 - умею работать как самостоятельно, так и в команде.
 
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-EBEBE9?style=for-the-badge&logo=postman)
+![SQL](https://img.shields.io/badge/-SQL-EBEBE9?style=for-the-badge&logo=postgreSQL)
+
 
 Testing Documentation
 
