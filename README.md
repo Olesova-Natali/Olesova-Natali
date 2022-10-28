@@ -1,6 +1,6 @@
 ![Header](https://github.com/Olesova-Natali/Olesova-Natali/blob/main/assets/%D0%BC%D0%B0%D0%BC%D0%B0.png)
 
-## Мои софт-скиллы:
+## Soft skills:
 - логическое мышление;
 - аналитический склад ума;
 - пунктуальна, ответственно подхожу к исполнению своих обязанностей;
