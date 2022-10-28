@@ -10,10 +10,14 @@
 - внимательна к деталям;
 - умею работать как самостоятельно, так и в команде.
 
+## CV
+
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EBEBE9?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-EBEBE9?style=for-the-badge&logo=Swagger)
 ![SQL](https://img.shields.io/badge/-SQL-EBEBE9?style=for-the-badge&logo=postgreSQL)
+![Devtools](https://img.shields.io/badge/-Devtools-EBEBE9?style=for-the-badge&logo=googlechrome)
 ![Jira](https://img.shields.io/badge/-Jira-EBEBE9?style=for-the-badge&logo=Jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-EBEBE9?style=for-the-badge&logo=Confluence)
 ![Qase.io](https://img.shields.io/badge/-Qase.io-EBEBE9?style=for-the-badge&logo=Qase)
@@ -26,4 +30,4 @@
 ## Testing Documentation
 
 
-Follow me
+## Follow me
