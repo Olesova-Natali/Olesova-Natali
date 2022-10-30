@@ -22,7 +22,7 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-EBEBE9?style=for-the-badge&logo=Confluence&logoColor=1C9DEB)
 ![Qase.io](https://img.shields.io/badge/-Qase.io-EBEBE9?style=for-the-badge&logo=Qase)
 ![Sitechco](https://img.shields.io/badge/-Sitechco-EBEBE9?style=for-the-badge&logo=Sitechco)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSSS-EBEBE9?style=for-the-badge&logo=CSS)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-EBEBE9?style=for-the-badge&logo=CSS)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-EBEBE9?style=for-the-badge&logo=CharlesProxy)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-EBEBE9?style=for-the-badge&logo=AndroidStudio)
 ![Git](https://img.shields.io/badge/-Git-EBEBE9?style=for-the-badge&logo=Git)
