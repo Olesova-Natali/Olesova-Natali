@@ -11,7 +11,7 @@
 - умею работать как самостоятельно, так и в команде.
 
 ## CV
-[Моё резюме](https://hh.ru/resume/0f8c5d76ff0608960f0039ed1f4e6b30646665)
+[Ознакомиться с моим резюме можно здесь](https://drive.google.com/drive/my-drive?roistat_visit=3238393)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EBEBE9?style=for-the-badge&logo=postman)
@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-EBEBE9?style=for-the-badge&logo=Python)
 
 ## Testing Documentation
-[Тест-план](https://drive.google.com/file/d/1ZMJ9NsC55XqPJakU0W0RGuRH3Z7NLm25/view?usp=sharing)
+[Тест-план и отчёт о тестировании](https://drive.google.com/file/d/1ZMJ9NsC55XqPJakU0W0RGuRH3Z7NLm25/view?usp=sharing)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-EBEBE9?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/olesovaN)
