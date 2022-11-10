@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-EBEBE9?style=for-the-badge&logo=Python)
 
 ## Testing Documentation
-- [Тестирование взаимодействия веб-версии с мобильным приложением](https://drive.google.com/file/d/1ZMJ9NsC55XqPJakU0W0RGuRH3Z7NLm25/view?usp=sharing)
+- [Тестирование web, мобильного приложения и их взаимодействие](https://drive.google.com/file/d/1ZMJ9NsC55XqPJakU0W0RGuRH3Z7NLm25/view?usp=sharing)
 
 - [Тестирование мобильного приложения](https://drive.google.com/file/d/1sIgLrtMe8VHrEIcBmJoqJmqDNOFdEkoH/view?usp=share_link)
 
