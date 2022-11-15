@@ -11,7 +11,7 @@
 - умею работать как самостоятельно, так и в команде.
 
 ## CV
-[Ознакомиться с моим резюме можно здесь](https://drive.google.com/drive/my-drive?roistat_visit=3238393)
+[Ознакомиться с моим резюме можно здесь](https://drive.google.com/file/d/1gCTMvH_0QnKHmdyVB1ZsNsB9UOR6212h/view?usp=sharing)
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-EBEBE9?style=for-the-badge&logo=postman)
